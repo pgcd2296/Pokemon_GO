@@ -3,37 +3,36 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to create a full Data Science Project to prove my skills and get an astonishing job offer at EKT ecommerce as a Data Scientist. 
+
+The Objective of this project is preprocess, train and apply a classification model able to recognize 10 distinct Pokémon’s trough a variety of attributes.
+We will be using a Random Forest Classifier after data preparation to render a CSV file containing the prediction after training our model on the first dataset. 
+
 
 ### Methods Used
 * Inferential Statistics
+* Data Preprocessing 
+* Feature Selection
 * Machine Learning
-* Data Visualization
 * Predictive Modeling
-* etc.
-* 
+* Classification modelling
+* Data Visualization
+
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
-* 
-
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+* Pandas
+* Numpy
+* scikit-learn
+* Tableau
+* Genially
 
 
-## Featured Collab Notebook / Genially Presentation
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
+## Featured Collab Notebook 
+* [Pokemon_go/Google Colab](https://colab.research.google.com/drive/1PJXmBbkD0Rn8ZS4_xetg0IAUU0DNTnIa?usp=sharing)
 
 
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+## Contact Information
+* Phone: (+52)5554157098 
+* Mail: pablo.gonzalez.uz@gmail.com
+* LinkedIn: www.linkedin.com/in/pablo-gonzalez-uzeta
