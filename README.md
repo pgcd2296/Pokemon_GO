@@ -3,7 +3,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to create a full Data Science Project to prove my skills and get an astonishing job offer at EKT ecommerce as a Data Scientist. 
+The purpose of this project is to create a full Data Science Project to prove my skills and get an astonishing job offer at EKT as a Data Scientist. 
 
 The Objective of this project is preprocess, train and apply a classification model able to recognize 10 distinct Pokémon’s trough a variety of attributes.
 We will be using a Random Forest Classifier after data preparation to render a CSV file containing the prediction after training our model on the first dataset. 
