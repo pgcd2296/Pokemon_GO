@@ -12,7 +12,8 @@ We will be using a Random Forest Classifier after data preparation to render a C
 ### Methods Used
 * Inferential Statistics
 * Data Preprocessing 
-* Feature Selection
+* Principal component analysis
+* SMOTE Over-sampling
 * Machine Learning
 * Predictive Modeling
 * Classification modelling
