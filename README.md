@@ -34,6 +34,5 @@ We will be using a Random Forest Classifier after data preparation to render a C
 
 
 ## Contact Information
-* Phone: (+52)5554157098 
 * Mail: pablo.gonzalez.uz@gmail.com
 * LinkedIn: www.linkedin.com/in/pablo-gonzalez-uzeta
